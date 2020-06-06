@@ -1,5 +1,7 @@
 1.下载ndk-r14b
+
 2.下载ffmpeg-3.3.9
+
 3.解压ffmpeg-3.3.9,跳转到ffmpeg根目录，修改configure文件：
 
     修改前
