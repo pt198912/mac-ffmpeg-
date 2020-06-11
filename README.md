@@ -55,3 +55,7 @@
     build_one
 
 5.chmod a+x build_android.sh修改文件为可执行，./build_android.sh执行文件开始编译
+
+6.FfplayerDemo使用ffmpeg编写的简单播放器，可以很好地方便学习ffmpeg
+
+    https://github.com/coopsrc/FFPlayerDemo
